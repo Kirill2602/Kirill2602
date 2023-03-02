@@ -10,8 +10,8 @@
 
 ## Проекты
 #### Дипломный проект Domino's Pizza
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kirill2602=dominos_project)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kirill2602&repo=dominos_project)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Статистика
